@@ -1,7 +1,7 @@
 ### Ola! eu sou Gediel Filho  👋
 
-- 🔭 Hoje trabalho com Java jr.
-- 🌱 Estou estudando Rest e Spring Boot
+- 🔭 Hoje trabalho como Java jr.
+- 🌱 Estou estudando Rest e Spring Boot e Java 17
 - 📫 Email Profissional:jobgfilho@gmail.com
 
 <div align="center">
