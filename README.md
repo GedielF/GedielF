@@ -12,7 +12,7 @@
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Gediel-Java" height="60" width="65" border-radius: 10px src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img align="center" alt="Gediel-Python" height="60" width="65" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" alt="Gediel-Python" height="60" width="65" border="20" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" alt="Gediel-Js" height="60" width="65" src="https://img.shields.io/badge/Javascript-ED8B00?style=for-the-badge&logo=javascript&logoColor=white">
   <img align="center" alt="Gediel-HTML5" height="60" width="65" src="https://img.shields.io/badge/Html5-6DB33F?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Gediel-Css" height="60" width="65" src="https://img.shields.io/badge/Css-ED8B00?style=for-the-badge&logo=css3&logoColor=white">
