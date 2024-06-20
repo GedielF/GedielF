@@ -1,7 +1,8 @@
 <h1 align="justify">Ola! eu sou Gediel Filho  👋<h1/>
 
-- 🔭 trabalho atualmente como Java jr.
-- 🌱 Estou estudando Rest e Spring Boot, Java 17 e Flutter.
+- 🔭 Trabalho atualmente como Estagiario em Qualidade de Software.
+- 🌱 Estudante de Ciencias da computaçao.
+- 🌱 Entusiata do Java.
 - 📫 Email Profissional:gedielrodriguesjob@gmail.com 
 - Instagram : @dev_gedielf
 
